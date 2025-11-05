@@ -67,7 +67,7 @@ export default function DashboardScreen({ userName = 'Zeeshan' }) {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1, alignItems: 'center', justifyContent: 'space-between', paddingTop: 80, paddingBottom: 40,
+    flex: 1, alignItems: 'center', justifyContent: 'space-between', paddingTop: 1, paddingBottom: 40,
   },
   header: {
     width: '90%', flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center',
